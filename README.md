@@ -1,7 +1,7 @@
 <!-- Logo -->
 <p align="center">
   <a href="#">
-    <img height="128" width="128" src="https://user-images.githubusercontent.com/13326808/60641203-872e7400-9e33-11e9-86c8-d515f195cc0d.png">
+    <img height="128" width="128" src="https://user-images.githubusercontent.com/13326808/60641325-0754d980-9e34-11e9-81fe-f7cecf33dc3c.png">
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="#">
-    <img src="https://dev.azure.com/0xF6/AncientVM/_apis/build/status/0xF6.ancient_cpu?branchName=master">
+    <img src="https://dev.azure.com/0xF6/AncientVM/_apis/build/status/0xF6.none?branchName=none">
     <img src="http://img.shields.io/:license-MIT-blue.svg">
     <img src="https://img.shields.io/github/release/0xF6/none.svg">
   </a>
@@ -38,7 +38,7 @@
   
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/13326808/60311909-e71fa900-9961-11e9-96f0-bf4c4a45681c.png">
+    <img src="https://via.placeholder.com/1150x653">
   </a>
 </p>
 
